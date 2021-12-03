@@ -1,0 +1,18 @@
+body{
+	background-color: #3C3C3C;
+}
+
+.center{
+	width: 100%;
+	margin: auto;
+	text-align: center;
+}
+
+#title{
+	color:#F4A460;/*#D2691E*/
+}
+
+#mail{
+	color:#D2B48C;
+}
+
